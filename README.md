@@ -44,6 +44,6 @@ Erreur moyenne d'environ 10% par rapport au prix médian (163 000$).
 - scikit-learn
 
 ## Fichiers
-- `notebook.ipynb` : code complet et commenté du projet
+- `notebook-houseprices.ipynb` : code complet et commenté du projet
 - `submission.csv` : prédictions finales sur le set de test Kaggle
 

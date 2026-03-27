@@ -1,7 +1,7 @@
 # ML-HousePrices
 Prédiction de prix immobiliers avec un Random Forest Regressor — Projet ML (Kaggle)
 
-# House Prices - Prédiction de prix immobiliers
+## House Prices - Prédiction de prix immobiliers
 
 Deuxième projet d'initiation au Machine Learning, réalisé sur le dataset Kaggle "House Prices - Advanced Regression Techniques".
 
